@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWork", "MyWork\MyWork.csproj", "{EACE2FF4-CA16-4403-A3BB-071CD7D467EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWork.Tests", "MyWork.Tests\MyWork.Tests.csproj", "{96FCABAA-9BC5-4B3D-8985-76A4DFE35BB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insertion", "Insertion\Insertion.csproj", "{15B3E0D2-6217-493A-A690-158C497F5318}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularJS Service", "WcfServiceLibrary1\AngularJS Service.csproj", "{F79C332F-EC8C-40A3-B7D5-9956609B05FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EACE2FF4-CA16-4403-A3BB-071CD7D467EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACE2FF4-CA16-4403-A3BB-071CD7D467EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACE2FF4-CA16-4403-A3BB-071CD7D467EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACE2FF4-CA16-4403-A3BB-071CD7D467EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96FCABAA-9BC5-4B3D-8985-76A4DFE35BB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FCABAA-9BC5-4B3D-8985-76A4DFE35BB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96FCABAA-9BC5-4B3D-8985-76A4DFE35BB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96FCABAA-9BC5-4B3D-8985-76A4DFE35BB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15B3E0D2-6217-493A-A690-158C497F5318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79C332F-EC8C-40A3-B7D5-9956609B05FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79C332F-EC8C-40A3-B7D5-9956609B05FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79C332F-EC8C-40A3-B7D5-9956609B05FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79C332F-EC8C-40A3-B7D5-9956609B05FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

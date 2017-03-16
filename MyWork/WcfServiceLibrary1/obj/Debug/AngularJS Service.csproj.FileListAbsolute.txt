@@ -1,0 +1,23 @@
+C:\Users\lokesh\Documents\Visual Studio 2012\Projects\MyWork\WcfServiceLibrary1\obj\Debug\AngularJS Service.csprojResolveAssemblyReference.cache
+C:\Users\lokesh\Documents\Visual Studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\lokesh\Documents\Visual Studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\lokesh\Documents\Visual Studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\lokesh\Documents\Visual Studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\lokesh\Documents\Visual Studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\MyWork.dll
+C:\Users\lokesh\Documents\Visual Studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\System.Web.Mvc.dll
+C:\Users\lokesh\Documents\Visual Studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\MyWork.pdb
+C:\Users\lokesh\Documents\Visual Studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\lokesh\Documents\Visual Studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\System.Web.Mvc.xml
+C:\Users\lokesh\Documents\Visual Studio 2012\Projects\MyWork\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\lokesh\Documents\Visual Studio 2012\Projects\MyWork\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+C:\Users\lokesh\documents\visual studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lokesh\documents\visual studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\lokesh\documents\visual studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\System.Web.Cors.dll
+C:\Users\lokesh\documents\visual studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\lokesh\documents\visual studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\System.Web.Http.dll
+C:\Users\lokesh\documents\visual studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lokesh\documents\visual studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\lokesh\documents\visual studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\System.Web.Http.xml
+C:\Users\lokesh\documents\visual studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\lokesh\documents\visual studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\lokesh\documents\visual studio 2012\Projects\MyWork\WcfServiceLibrary1\bin\Debug\System.Web.Http.WebHost.xml
